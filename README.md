@@ -8,9 +8,9 @@ I'm a CSE grad, into SOC ops, red teaming, devops — building, learning and con
 
 ## 🔭 Quick links
 [![Twitter](https://img.shields.io/badge/Twitter-/@zeroisdeadagain-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/@zeroisdeadagain)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vansh-kalawatia-3074862b1-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vansh-kalawatia-3074862b1)
+
 [![Mail](https://img.shields.io/badge/Email-vanshnavyavn@gmail.co-D14836?style=flat-square&logo=gmail)](mailto:vanshnavyavn@gmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Debarghya-?style=flat-square)](https://tryhackme.com)
+
 
 ---
 
@@ -26,17 +26,13 @@ I'm a CSE grad, into SOC ops, red teaming, devops — building, learning and con
 ## 🔥 Streak & Contributions
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pr0jzer0&theme=dark)
 
----
-
-## 🏆 Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=pr0jzer0&theme=gruvbox)
 
 ---
 
 ## 🧰 Technologies & Tools
 
 - Linux / Bash / PowerShell
-- Python, Go, JavaScript <!--(Node)-->
+- Python, JavaScript <!--(Node)-->
 <!-- - Docker, Kubernetes -->
 - Nmap, BloodHound, Impacket, Mimikatz (for red-team labs)
 
