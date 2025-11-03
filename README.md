@@ -2,7 +2,7 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=pr0jzer0E&color=blue)](https://github.com/pr0jzer0)
 
-I'm a CSE grad, into SOC ops, red teaming, devops — building, learning and contributing to OSS.
+<!--I'm a CSE grad, into SOC ops, red teaming, devops — building, learning and contributing to OSS.-->
 
 ---
 
