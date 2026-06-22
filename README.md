@@ -9,7 +9,7 @@
 ### 📟 SYSTEM STATUS
 ```bash
 > USER: Vansh Kalawatia
-> LEVEL: 2nd Year B.Tech CSE (Cybersecurity) — Jaipur, IN
+> LEVEL: 3nd Year B.Tech CSE (Cybersecurity) — Jaipur, IN
 > ENVIRONMENT: ROOT
 > CURRENT_FOCUS: Python and Java Security Automation & OSINT
 > CURRENT_MISSION: PortSwigger SQLi labs + HTB Starting Point
